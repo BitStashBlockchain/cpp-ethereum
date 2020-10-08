@@ -1,9 +1,7 @@
 [submodule "test/jsontests"]
 	path = test/jsontests
 	url = https://github.com/ethereum/tests.git
-[submodule "ethash"]
-	path = ethash
-	url = https://github.com/ethereum/ethash
+
 [submodule "cmake/cable"]
 	path = cmake/cable
 	url = https://github.com/ethereum/cable
